@@ -10,12 +10,7 @@ function About() {
           <div className="card-body mt-5">
             <h1 className="card-title fw-bold">About Us</h1>
             <p>
-              As web developers, we specialize in creating and maintaining
-              websites. We are skilled in various programming languages such as
-              HTML, CSS, and JavaScript, as well as frameworks and libraries
-              like React, Angular, and Vue.js. Our goal is to build responsive,
-              user-friendly, and visually appealing websites that meet our
-              clients' needs and expectations.
+              Software Developer with 2+ years of experience specializing in Laravel and MySQL. Expert in building scalable REST APIs, secure payment integrations, and AI-driven solutions, with a focus on delivering clean, high-performance code for complex web platforms.
             </p>
           </div>
         </Col>

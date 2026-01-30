@@ -76,9 +76,7 @@ function Resume() {
                 <p className="text-muted mb-2">ScrumAD Pvt. Ltd.</p>
                 <ul className="list-unstyled ms-3">
                   <li>• Worked on Laravel, MySQL, Blade templates, Bootstrap, and JavaScript</li>
-                  <li>• Gained hands-on experience in authentication, CRUD operations, and relationships</li>
-                  <li>• Developed RESTful APIs for various project modules</li>
-                  <li>• Implemented frontend functionality using jQuery and AJAX</li>
+                  <li>• Gained hands-on experience in authentication, CRUD operations, relationships, and API development</li>
                 </ul>
               </div>
 
@@ -86,9 +84,8 @@ function Resume() {
                 <h5 className="fw-bold">Internship</h5>
                 <p className="text-muted mb-2">Sigma Digital Solutions</p>
                 <ul className="list-unstyled ms-3">
-                  <li>• Worked on PHP Core and Laravel projects</li>
-                  <li>• Developed RESTful APIs and implemented frontend functionality using jQuery and AJAX</li>
-                  <li>• Gained experience in full-stack development</li>
+                  <li>• Working on PHP Core and Laravel projects</li>
+                  <li>• Developing RESTful APIs and implementing frontend functionality using jQuery and AJAX</li>
                 </ul>
               </div>
 
