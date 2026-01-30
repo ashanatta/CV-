@@ -64,19 +64,8 @@ function Resume() {
                 <h5 className="fw-bold">Laravel Developer</h5>
                 <p className="text-muted mb-2">Techons (Pvt.) Ltd. | 2024 - Present</p>
                 <ul className="list-unstyled ms-3">
-                  <li>• Working on live projects using PHP framework Laravel</li>
-                  <li>• Gaining experience in HTML, CSS, JavaScript, Laravel, REST APIs</li>
-                  <li>• Implementing authentication (both session-based and token-based)</li>
-                  <li>• Working with database relationships and complex queries</li>
-                </ul>
-              </div>
-
-              <div className="mb-3">
-                <h5 className="fw-bold">Internship</h5>
-                <p className="text-muted mb-2">ScrumAD Pvt. Ltd.</p>
-                <ul className="list-unstyled ms-3">
-                  <li>• Worked on Laravel, MySQL, Blade templates, Bootstrap, and JavaScript</li>
-                  <li>• Gained hands-on experience in authentication, CRUD operations, relationships, and API development</li>
+                  <li>• At Techons (Pvt.) Ltd. working on live projects using PHP framework Laravel</li>
+                  <li>• Gaining experience in HTML, CSS, JS, Laravel, REST APIs, authentication (both session-based and token-based), and database relationships</li>
                 </ul>
               </div>
 
@@ -84,8 +73,17 @@ function Resume() {
                 <h5 className="fw-bold">Internship</h5>
                 <p className="text-muted mb-2">Sigma Digital Solutions</p>
                 <ul className="list-unstyled ms-3">
-                  <li>• Working on PHP Core and Laravel projects</li>
+                  <li>• Working at Sigma Digital Solutions on PHP Core and Laravel projects</li>
                   <li>• Developing RESTful APIs and implementing frontend functionality using jQuery and AJAX</li>
+                </ul>
+              </div>
+
+              <div className="mb-3">
+                <h5 className="fw-bold">Internship</h5>
+                <p className="text-muted mb-2">ScrumAD Pvt. Ltd.</p>
+                <ul className="list-unstyled ms-3">
+                  <li>• Interned at ScrumAD Pvt. Ltd., working on Laravel, MySQL, Blade templates, Bootstrap, and JavaScript</li>
+                  <li>• Gained hands-on experience in authentication, CRUD operations, relationships, and API development</li>
                 </ul>
               </div>
 
@@ -93,9 +91,7 @@ function Resume() {
                 <h5 className="fw-bold">Internship</h5>
                 <p className="text-muted mb-2">Code Alpha | 1 Month</p>
                 <ul className="list-unstyled ms-3">
-                  <li>• Gained hands-on experience in HTML, CSS, JavaScript, REST APIs</li>
-                  <li>• Implemented token-based authentication</li>
-                  <li>• Worked on database management</li>
+                  <li>• Worked at Code Alpha for one month, gaining hands-on experience in HTML, CSS, JavaScript, REST APIs, token-based authentication, and database management</li>
                 </ul>
               </div>
             </motion.div>
